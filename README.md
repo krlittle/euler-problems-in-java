@@ -1,4 +1,3 @@
-# euler-java
-For doing euler problems in Java 7.
+# euler-problems-in-java
 
 https://projecteuler.net/problems
